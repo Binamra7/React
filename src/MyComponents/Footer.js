@@ -5,7 +5,7 @@ export const Footer = () => {
         position: "absolute",
         top: "100vh",
         width: "100%",
-        border: "2px solid skyblue"
+        border: "2px solid skyblue"        
     }
     
     return (
